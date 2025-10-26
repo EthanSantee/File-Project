@@ -1,0 +1,20 @@
+Follow the set of instructions to categorize the files above:
+
+Rules:
+remove the asteriks and do not add extra fluff
+only give me the subject name of the folder name that is generated (i.e Chemistry, Family, Selfies)
+make the folders more broad (i.e cats and dogs would both be in an animals folder)
+do not add standard names such as textfiles or images
+Do not add colons to the subject name
+Separate each file by spaces
+Do not print the contents of each file
+
+Follow this example format:
+Foldername file1 file2 file3
+Map America.txt Europe.txt
+Receipt publixReceipt.txt HomeDepotReceipt.txt
+Person Person.jpg
+Math math.png
+
+1. give me a list of folders to divide the files above into based on subjects
+2. after the name of each folder add the names of the files that should be added to that folder
